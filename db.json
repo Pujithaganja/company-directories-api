@@ -1,0 +1,33 @@
+{
+  "companies": [
+    {"id":1,"name":"Google","location":"Hyderabad","industry":"Tech"},
+    {"id":2,"name":"Microsoft","location":"Bangalore","industry":"Tech"},
+    {"id":3,"name":"Amazon","location":"Hyderabad","industry":"E-commerce"},
+    {"id":4,"name":"TCS","location":"Chennai","industry":"IT Services"},
+    {"id":5,"name":"Infosys","location":"Bangalore","industry":"IT Services"},
+    {"id":6,"name":"Flipkart","location":"Bangalore","industry":"E-commerce"},
+    {"id":7,"name":"Zomato","location":"Delhi","industry":"Food Tech"},
+    {"id":8,"name":"Swiggy","location":"Bangalore","industry":"Food Tech"},
+    {"id":9,"name":"Paytm","location":"Noida","industry":"FinTech"},
+    {"id":10,"name":"Ola","location":"Bangalore","industry":"Mobility"},
+    {"id":11,"name":"Byju's","location":"Bangalore","industry":"EdTech"},
+    {"id":12,"name":"Reliance Jio","location":"Mumbai","industry":"Telecom"},
+    {"id":13,"name":"PhonePe","location":"Bangalore","industry":"FinTech"},
+    {"id":14,"name":"Myntra","location":"Bangalore","industry":"E-commerce"},
+    {"id":15,"name":"BigBasket","location":"Bangalore","industry":"Grocery"},
+    {"id":16,"name":"MakeMyTrip","location":"Gurgaon","industry":"Travel Tech"},
+    {"id":17,"name":"Nykaa","location":"Mumbai","industry":"Beauty E-commerce"},
+    {"id":18,"name":"Meesho","location":"Bangalore","industry":"Social Commerce"},
+    {"id":19,"name":"Dream11","location":"Mumbai","industry":"Gaming"},
+    {"id":20,"name":"CRED","location":"Bangalore","industry":"FinTech"},
+    {"id":21,"name":"Razorpay","location":"Bangalore","industry":"Payments"},
+    {"id":22,"name":"Unacademy","location":"Bangalore","industry":"EdTech"},
+    {"id":23,"name":"Groww","location":"Bangalore","industry":"FinTech"},
+    {"id":24,"name":"Zepto","location":"Mumbai","industry":"Quick Commerce"},
+    {"id":25,"name":"PharmEasy","location":"Mumbai","industry":"HealthTech"},
+    {"id":26,"name":"Lenskart","location":"Delhi","industry":"Eyewear"},
+    {"id":27,"name":"Boat","location":"Delhi","industry":"Consumer Electronics"},
+    {"id":28,"name":"Mamaearth","location":"Gurgaon","industry":"FMCG"},
+    {"id":29,"name":"Ather Energy","location":"Bangalore","industry":"EV"}
+  ]
+}
